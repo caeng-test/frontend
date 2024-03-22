@@ -5,11 +5,10 @@
 1. 將此儲存庫 Clone 到自己的開發環境
 2. 到 https://github.com/new/ ，建立新的儲存庫
    - 請設定為 Private
-   - 請將 alanwu4321、flyinglimao、twzjwang 設定為協作者
+   - 請將 alanwu4321、twzjwang 設定為協作者
 3. 開始開發
 4. 兩小時內將進度上傳到 GitHub，並將 Repo 網址寄送到以下信箱，你可以在信件內補充任何說明
    - alan@crypto-arsenal.io
-   - bill@crypto-arsenal.io
    - richard@crypto-arsenal.io
    - zanjun@crypto-arsenal.io
 5. 時間結束後仍可繼續開發，但兩小時內必須上傳一個版本
